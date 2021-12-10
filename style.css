@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(tumblr.jpg);
+    font-family: cursive;
+    font-size: 30px;
+}
+
+.form {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#output {
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
